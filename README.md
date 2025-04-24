@@ -90,7 +90,15 @@ Sample rows from `quotes.csv`:
 
 ![Screenshot from 2025-04-24 21-42-54](https://github.com/user-attachments/assets/d5aace2d-c5bc-4650-9ac5-675c25c1727c)
 
-![Screenshot from 2025-04-24 21-43-06](https://github.com/user-attachments/assets/585f74de-21b5-4022-a199-52a21afdb86e)
+![Screenshot from 2025-04-24 21-43-06](https://github.com/user-attachments/assets/99d92eeb-f258-4794-951e-72beab57fd05)
+
+![Screenshot from 2025-04-24 21-43-47](https://github.com/user-attachments/assets/d807d85a-2961-44f6-b73f-7582ae6fc9e2)
 
 
+![Screenshot from 2025-04-24 21-44-02](https://github.com/user-attachments/assets/03e4769d-db67-4e50-a430-18488b921d0c)
+![Screenshot from 2025-04-24 21-44-13](https://github.com/user-attachments/assets/980c189d-54e5-445f-89e4-948614693c2a)
 
+
+![Screenshot from 2025-04-24 21-44-30](https://github.com/user-attachments/assets/bc1446fd-0084-4f48-868e-5279193508da)
+
+![Screenshot from 2025-04-24 21-44-23](https://github.com/user-attachments/assets/08c681a0-7a48-45fa-ab1c-3c3a52e00f2f)
