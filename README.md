@@ -102,3 +102,4 @@ Sample rows from `quotes.csv`:
 ![Screenshot from 2025-04-24 21-44-30](https://github.com/user-attachments/assets/bc1446fd-0084-4f48-868e-5279193508da)
 
 ![Screenshot from 2025-04-24 21-44-23](https://github.com/user-attachments/assets/08c681a0-7a48-45fa-ab1c-3c3a52e00f2f)
+[Screencast from 2025-05-12 19-27-13.webm](https://github.com/user-attachments/assets/4f2ce6c9-9cbe-41a0-a7f7-74e571bef414)
